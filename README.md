@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# **Aztec Sequencer Guide**
+# **Aztec Sequencer Guide By MRP Tech**
 ---
 
 </div>
@@ -347,3 +347,5 @@ aztec add-l1-validator \
 > USE DIFFERENT AI MODELS TO SCAN THE FILES BE SAFE WHEN YOU SHARE SOMETHING THAT HOLDS ASSETS OR PERSONAL INFORMATION.
 
 LICENSE MIT 
+
+Join Telegram Channel - https://t.me/mrptechofficial
