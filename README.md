@@ -1,8 +1,8 @@
 <div align="center">
   <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/AirdropScriptFA/CryptoTechLooter/796c2e77cdef9dbd6d7ced6fc1aab995e640a153/IMG_20250518_151850_367.jpg" alt="CryptoTechLooter Logo" width="100" style="margin-right: 20px;"/>
+    <img src="https://github.com/mosibur1/mrptech/blob/5953486d6dc0f3b028f7d049227ff4a1271c389f/mrptech.jpg" alt="MRPTech Logo" width="100" style="margin-right: 20px;"/>
     <div>
-      <b>This Codes/Software Is Shared By <a href="https://t.me/cryptotechlooter">Crypto Tech Looter</a></b>
+      <b>This Codes/Software Is Shared By <a href="https://t.me/mrptechofficial">MRP Tech</a></b>
     </div>
   </div>
 </div>
