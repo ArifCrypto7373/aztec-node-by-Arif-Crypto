@@ -363,6 +363,3 @@ LICENSE MIT
     </div>
   </div>
 </div>
-
-
-Join Telegram Channel - https://t.me/mrptechofficial
