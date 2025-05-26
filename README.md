@@ -7,8 +7,6 @@
   </div>
 </div>
 
-<div align="center">
-
 # **Aztec Sequencer Guide By MRP Tech**
 ---
 
