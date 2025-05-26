@@ -142,7 +142,7 @@ sudo ufw allow 8080
 
 # Get Seapolia and Beacon API Key's Free of Cost
 
-* Go to - https://access.rockx.com/
+* Go to - https://access.rockx.com?r=JarQwE7emCB
 
 * Manually Sign up with Email address- u will rcvd 100$ voucher- (Dont sign up with Google)
 
