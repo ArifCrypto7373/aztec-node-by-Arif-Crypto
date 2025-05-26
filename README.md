@@ -123,6 +123,8 @@ https://sepolia-faucet.pk910.de/
 
 https://www.alchemy.com/faucets/ethereum-sepolia
 
+https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
 
 
 # Allow Incoming connections on Ports 
