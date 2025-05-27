@@ -1,13 +1,6 @@
-<div align="center">
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.com/mosibur1/mrptech/blob/5953486d6dc0f3b028f7d049227ff4a1271c389f/mrptech.jpg" alt="MRPTech Logo" width="100" style="margin-right: 20px;"/>
-    <div>
-      <b>This Codes/Software Is Shared By <a href="https://t.me/mrptechofficial">MRP Tech</a></b>
-    </div>
-  </div>
-</div>
 
-# **Aztec Sequencer Guide By MRP Tech**
+
+# **Aztec Sequencer Guide by Arif crypto
 ---
 
 </div>
